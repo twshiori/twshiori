@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hello, it's Shiori 👋
+I'm a coding beginner :D
 
 <!--
 **twshiori/twshiori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
